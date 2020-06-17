@@ -41,5 +41,5 @@ are found in the Notebook.
 - [Further Noise Reduction](#lesson_6)
 - [**PROJECT 6**: Reducing Noise by Strategically Reducing the Vocabulary](#project_6)
 
-#### Project 7
+#### Finally
 - [Analysis: What's going on in the weights?](#lesson_7)
