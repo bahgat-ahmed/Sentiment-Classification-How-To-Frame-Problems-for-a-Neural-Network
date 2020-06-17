@@ -13,7 +13,7 @@ are found in the Notebook.
 - and train/test splits
 
 
-### Tutorial Outline:
+### Project Outline:
 
 #### Project 1
 - Intro: The Importance of "Framing a Problem" (this lesson)
