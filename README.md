@@ -3,6 +3,10 @@
 <p align="center">
 <img src="Neural_Network.png" width="400" height="400" />
  </p>
+ 
+---
+A lot of this readme is taken from the project description made by Udacity and I have just made small modifications to their description and put it in this readme.
+---
 
 This is a project I have implemented in the Natural Language Processing (NLP) Udacity Nanodegree in the **Sentiment Analysis** extracurricular course in the Nanodegree.
 
