@@ -1,6 +1,6 @@
 # Sentiment-Classification: How To Frame Problems for a Neural Network
 
-<img src="Neural_Network.png" width="800" height="400" />
+<img src="Neural_Network.png" width="400" height="400" />
 
 This is a project I have implemented in the Natural Language Processing (NLP) Udacity Nanodegree in the **Sentiment Analysis** extracurricular course in the Nanodegree.
 
