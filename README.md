@@ -6,6 +6,13 @@
 
 This is a project I have implemented in the Natural Language Processing (NLP) Udacity Nanodegree in the **Sentiment Analysis** extracurricular course in the Nanodegree.
 
+---
+**NOTE**
+
+reviews.txt file is missing here becuase it was too big to be uploaded on Github. So instead, I have uploaded it to a google drive and you can find it here: [!reviews.txt](https://drive.google.com/drive/my-drive)
+
+---
+
 The following is the guide written at the beginning of the notebook explaining the 6 small projects that form this Notebook. The details
 are found in the Notebook.
 
