@@ -9,7 +9,7 @@ This is a project I have implemented in the Natural Language Processing (NLP) Ud
 ---
 **NOTE**
 
-reviews.txt file is missing here becuase it was too big to be uploaded on Github. So instead, I have uploaded it to a google drive and you can find it here: [!reviews.txt](https://drive.google.com/drive/my-drive)
+reviews.txt file is missing here becuase it was too big to be uploaded on Github. So instead, I have uploaded it to google drive and you can find it here: [reviews.txt](https://drive.google.com/file/d/1Niqlij37z0mixAXzJuv6lSxprXHf2dsb/view?usp=sharing)
 
 ---
 
