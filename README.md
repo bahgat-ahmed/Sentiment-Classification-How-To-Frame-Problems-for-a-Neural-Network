@@ -1,6 +1,6 @@
 # Sentiment-Classification: How To Frame Problems for a Neural Network
 
-![GitHub Logo](Neural Network.png)
+![GitHub Logo](Neural_Network.png)
 
 This is a project I have implemented in the Natural Language Processing (NLP) Udacity Nanodegree in the **Sentiment Analysis** extracurricular course in the Nanodegree.
 
