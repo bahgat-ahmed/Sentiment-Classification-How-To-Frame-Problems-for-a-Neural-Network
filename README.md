@@ -1,6 +1,6 @@
 # Sentiment-Classification: How To Frame Problems for a Neural Network
 
-This is a project I have implemented in the Natural Language Processing (NLP) Udacity Nanodegree in the **Sentiment Analysis** extracurricular course in the Nanodegree.
+This is a project I have implemented in the **Natural Language Processing (NLP) Udacity Nanodegree** in the **Sentiment Analysis** extracurricular course in the Nanodegree.
 
 A lot of this readme is taken from the project description made by Udacity and I have just made small modifications to their description and put it in this readme.
 
